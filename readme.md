@@ -1,4 +1,4 @@
-## About Laravel
+## User Register
 
 Basic user register system.
 
